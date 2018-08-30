@@ -1,6 +1,7 @@
 # javaweb
 一个简单的javaweb项目，没有使用任何框架的web项目
 
+```
 -- src
   -- java 项目主目录
     -- dao dao操作数据库
@@ -17,5 +18,5 @@
       
 pom.xml maven配置
 test.sql 数据库SQL生成
-
+```
 
