@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="User" class="com.entity.User">
+        <property name="id" value="1"></property>
+        <property name="name" value="lk"></property>
+        <property name="pwd" value="123"></property>
+        <property name="sex" value="boy"></property>
+        <property name="home" value="china"></property>
+        <property name="info" value="chinese"></property>
+    </bean>
+</beans>
